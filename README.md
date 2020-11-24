@@ -3,9 +3,9 @@
 
 <h4>Antes de nada deberemos tener instalados git y nuxt</h4>
 
-    <b>https://nuxtjs.org/docs/2.x/get-started/installation</b>
+    - https://nuxtjs.org/docs/2.x/get-started/installation
 
-    <b>https://www.atlassian.com/es/git/tutorials/install-git</b>
+    - https://www.atlassian.com/es/git/tutorials/install-git
 
 <h4>Para empezar a trabajar haremos un clone de nuestra aplicación</h4>
 
