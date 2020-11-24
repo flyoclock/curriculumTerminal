@@ -6,7 +6,7 @@
     <b>https://nuxtjs.org/docs/2.x/get-started/installation</b>
 
     <b>https://www.atlassian.com/es/git/tutorials/install-git</b>
-    
+
 <h4>Para empezar a trabajar haremos un clone de nuestra aplicación</h4>
 
 Abrimos un terminal:
@@ -37,16 +37,18 @@ Para lanzar la aplicación en nuestro local:
 Hay una acción para cada parte del curriculum (crearHabilidades,crearFormacion,crearSobreMi,crearExperiencia)
 
 Enpezaremos con:
+
  <b>context.commit("limpiarHtml");</b>
 
 Entre medias añadiremos el html (recomiendo linea por linea) con :
+
  <b>context.commit("anadirHtml", [html]);</b>
 
 Y siempre finalizaremos con:
 
  <b>context.commit("anadirHtml", "&lt;div&gt;&lt;div class='homeTerminal'&gt;hector&lt;/div&gt;&lt;div class='homeTerminalPath'&gt;~&lt;/div&gt;&lt;div class='parpadea cursor'&gt; ..&lt;/div&gt;&lt;/div&gt;");</b>
 
-<h4>Reemplazaremos la imagen en stati/images/foto.png</h4>
+<h4>Reemplazaremos la imagen en static/images/foto.png</h4>
 
 
 
