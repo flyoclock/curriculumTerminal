@@ -1,23 +1,23 @@
 # curriculumTerminal
 Curriculum virtual formato circulos y Terminal
 
-Para empezar a trbajar haremos un clone de nuestra aplicación:
+Para empezar a trabajar haremos un clone de nuestra aplicación:
 
 Abrimos un terminal:
 
 Vamos a la ubicacion donde queramos clonar la aplicación:
 
-cd [path donde queremos que se clone]
+<b>cd [path donde queremos que se clone]</b>
 
-git clone https://github.com/flyoclock/curriculumTerminal.git
+<b>git clone https://github.com/flyoclock/curriculumTerminal.git</b>
 
 Para lanzar la aplicación en nuestro local:
 
-cd curriculumTerminal
+<b>cd curriculumTerminal</b>
 
-npm install
+<b>npm install</b>
 
-npm run dev
+<b>npm run dev</b>
 
 
 
