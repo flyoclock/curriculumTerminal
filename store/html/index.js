@@ -4,7 +4,7 @@ export default {
     nombre:"Rigoberto Cazuela Fresca",
     direccion:"Poblado de NEVER NEVER LAND a la derecha",
     telefono:"555 55 55 55",
-    emal:"posallivoy@nevernever.land"
+    email:"posallivoy@nevernever.land"
   },
   actions: {
     crearHabilidades(context) {

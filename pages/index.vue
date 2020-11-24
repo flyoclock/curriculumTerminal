@@ -39,7 +39,7 @@
 
     <div class="circulo">
       <div>
-        <img src="images/foto.jpg" class="foto" />
+        <img src="images/foto.png" class="foto" />
         <h1>{{nombre}}</h1>
         <ul>
           <li @click="irAMapa" class="dedo">
@@ -88,7 +88,7 @@ export default {
       nombre: this.$store.state.html.nombre,
       telefono: this.$store.state.html.telefono,
       email: this.$store.state.html.email,
-      direccion: this.$store.state.html.email,
+      direccion: this.$store.state.html.direccion,
       verDatos: true,
       mostrarInfo: false,
       titulo: "",
