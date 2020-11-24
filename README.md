@@ -37,11 +37,11 @@ Enpezaremos con:
  <b>context.commit("limpiarHtml");</b>
 
 Entre medias añadiremos el html (recomiendo linea por linea) con :
- <b>context.commit("anadirHtml", "<br><b>&#9632;  Puesto</b> -> Analista Programador y Desarrollador<br>");</b>
+ <b>context.commit("anadirHtml", [html]);</b>
 
-Y siempre finalizaremos con:ç
+Y siempre finalizaremos con:
 
- <b>context.commit("anadirHtml", "<div><div class='homeTerminal'>hector</div><div class='homeTerminalPath'>~</div><div class='parpadea cursor'> ..</div></div>");</b>
+ <b>context.commit("anadirHtml", "&lt;div&gt;&lt;div class='homeTerminal'&gt;hector&lt;/div&gt;&lt;div class='homeTerminalPath'&gt;~&lt;/div&gt;&lt;div class='parpadea cursor'&gt; ..&lt;/div&gt;&lt;/div&gt;");</b>
 
 <h4>Reemplazaremos la imagen en stati/images/foto.png</h4>
 
