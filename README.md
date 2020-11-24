@@ -2,8 +2,11 @@
 <h1>Curriculum virtual formato circulos y Terminal</h1>
 
 <h4>Antes de nada deberemos tener instalados git y nuxt</h4>
+
     <b>https://nuxtjs.org/docs/2.x/get-started/installation</b>
+
     <b>https://www.atlassian.com/es/git/tutorials/install-git</b>
+    
 <h4>Para empezar a trabajar haremos un clone de nuestra aplicación</h4>
 
 Abrimos un terminal:
